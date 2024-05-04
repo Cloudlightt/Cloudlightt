@@ -4,21 +4,22 @@
 Whether you're here to explore my latest projects, learn more about my skills, or just say hi, I'm thrilled to have you! 
 Feel free to take a look around, and don't hesitate to reach out if you have any questions or would like to collaborate. Enjoy your visit!
 
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Thanakorn_Sooksanong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thanakorn-sooksanong-b55b561ba)](www.linkedin.com/in/thanakorn-sooksanong-b55b561ba)
+  [![Gmail Badge](https://img.shields.io/badge/-Lightthanakorn1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lightthanakorn1997@gmail.com)](mailto:Lightthanakorn1997@gmail.com)
+</div>
+
+
 # About me
 Hello there! I'm Thanakorn (Light), my journey into the world of data analysis began with a passion for problem-solving and a curiosity about the stories hidden within numbers. 
 Over the past year, I've practiced my skills in data tools, statistical analysis, and data visualization, exploring new data visualization techniques that give me a broader perspective on this line of work and make me enthusiastic about how I could use my skills to grow in this field. 
 
-# Contact me
-
-Location: Bangkok, Thailand
-
-Email: Lightthanakorn1997@gmail.com
-
-Linkedin: https://www.linkedin.com/in/thanakorn-sooksanong-b55b561ba/
 
 # Education
 
-Thammasart Universty, 
+Thammasart University.
+Bachelor of Arts, Allied Health Sciences , BBA Sport Management
 
 
 
@@ -35,23 +36,4 @@ Thammasart Universty,
  
 </div> 
 
-
-
-
-- Intro to data science
-- Spreadsheets
-- SQL databases
-- R Programing
-- Data Transformation
-- Data Visualization
-
-## Second part of the program
-- Building website portfolio
-- Essential statustics
-- Machine Learning for Data Analyst
-- Python Programming
-- Essential Python for Data Analyst
-- Dashboard with Looker Studio
- 
-Contact: Lightthanakorn1997@gmail.com
   
