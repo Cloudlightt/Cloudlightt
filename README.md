@@ -6,7 +6,7 @@ Feel free to take a look around, and don't hesitate to reach out if you have any
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Thanakorn_Sooksanong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thanakorn-sooksanong-b55b561ba)](www.linkedin.com/in/thanakorn-sooksanong-b55b561ba)
+  [![Linkedin Badge](https://img.shields.io/badge/-Thanakorn_Sooksanong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanakorn-sooksanong-b55b561ba/)](https://www.linkedin.com/in/thanakorn-sooksanong-b55b561ba/)
   [![Gmail Badge](https://img.shields.io/badge/-Lightthanakorn1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lightthanakorn1997@gmail.com)](mailto:Lightthanakorn1997@gmail.com)
 </div>
 
