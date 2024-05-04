@@ -19,8 +19,7 @@ Over the past year, I've practiced my skills in data tools, statistical analysis
 # Education
 
 Thammasart University.
-Bachelor of Arts, Allied Health Sciences , BBA Sport Management
-
+Bachelor of Arts, Allied Health Sciences, BBA Sport Management
 
 
 # Skills
