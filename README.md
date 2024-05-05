@@ -5,7 +5,7 @@ Whether you're here to explore my latest projects, learn more about my skills, o
 Feel free to take a look around, and don't hesitate to reach out if you have any questions or would like to collaborate. Enjoy your visit!
 
 
-# About me
+## About me
 Hello there! I'm Thanakorn (Light), my journey into the world of data analysis began with a passion for problem-solving and a curiosity about the stories hidden within numbers. 
 Over the past year, I've practiced my skills in data tools, statistical analysis, and data visualization, exploring new data visualization techniques that give me a broader perspective on this line of work and make me enthusiastic about how I could use my skills to grow in this field. 
 
@@ -19,14 +19,14 @@ Over the past year, I've practiced my skills in data tools, statistical analysis
 
 
 
-# Education
+## Education
 
 Thammasart University.
 
 Bachelor of Arts, Allied Health Sciences, BBA Sport Management
 
 
-# Skills
+## Skills
 
 <div align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> 
@@ -38,5 +38,12 @@ Bachelor of Arts, Allied Health Sciences, BBA Sport Management
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="python" width="40" height="40"/>
  
 </div> 
+
+## Portfolio
+
+- [Spreadsheet](https://github.com/Cloudlightt/Spreadsheet)
+
+
+
 
   
