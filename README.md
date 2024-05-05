@@ -1,10 +1,4 @@
 
-<div align="center">
-  
-# Hello and welcome to Light's portfolio 
-
-</div>
-
 ![Banner](https://github.com/Cloudlightt/Cloudlightt/blob/main/header.png)
 
 Whether you're here to explore my latest projects, learn more about my skills, or just say hi, I'm thrilled to have you! 
