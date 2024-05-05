@@ -5,6 +5,8 @@
 
 </div>
 
+![Banner](/image/github_banner.png)
+
 Whether you're here to explore my latest projects, learn more about my skills, or just say hi, I'm thrilled to have you! 
 Feel free to take a look around, and don't hesitate to reach out if you have any questions or would like to collaborate. Enjoy your visit!
 
