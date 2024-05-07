@@ -13,6 +13,9 @@ Over the past year, I've practiced my skills in data tools, statistical analysis
   
   [![Linkedin Badge](https://img.shields.io/badge/-Thanakorn_Sooksanong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanakorn-sooksanong-b55b561ba/)](https://www.linkedin.com/in/thanakorn-sooksanong-b55b561ba/)
   [![Gmail Badge](https://img.shields.io/badge/-Lightthanakorn1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lightthanakorn1997@gmail.com)](mailto:Lightthanakorn1997@gmail.com)
+
+  ![Word press](https://img.shields.io/badge/lightcloud2-grey?logo=wordpress&link=https%3A%2F%2Flightcloud2.wordpress.com%2F)
+
   
 </div>
 
