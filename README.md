@@ -43,8 +43,7 @@ Bachelor of Arts, Allied Health Sciences, BBA Sport Management
 
 ## Portfolio
 
-- [Data-science-bootcamp09
-Public](https://github.com/Cloudlightt/Data-science-bootcamp09)
+- [Data-science-bootcamp09](https://github.com/Cloudlightt/Data-science-bootcamp09)
 
 
 
