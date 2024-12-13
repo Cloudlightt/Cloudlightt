@@ -34,10 +34,13 @@ Bachelor of Arts, Allied Health Sciences, BBA Sport Management
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> 
   <img src="https://cdn-icons-png.freepik.com/512/2875/2875413.png" alt="google sheets" width="40" height="40"/> 
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="tableau" width="40" height="40"/> 
+  <img src="https://www.askme.co.th/wp-content/uploads/2020/09/PowerBI-Logo.png" alt="PowerBI" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker studio" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="40" height="40"/>
+  
  
 </div> 
 
